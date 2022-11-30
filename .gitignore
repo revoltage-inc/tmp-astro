@@ -1,0 +1,20 @@
+# System File
+.DS_Store
+__MACOSX
+Thumbs.db
+
+# Node.js
+node_modules/
+
+# VSCode Plugin
+.history
+
+# Astro
+dist/
+.output/
+
+# Vercel
+.vercel
+
+# Environment file
+.env
