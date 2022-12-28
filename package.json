@@ -14,7 +14,7 @@
     "update": "npx ncu -u && npm install"
   },
   "dependencies": {
-    "astro": "^1.7.2"
+    "astro": "^1.8.0"
   },
   "devDependencies": {
     "@astrojs/tailwind": "^2.1.3",
