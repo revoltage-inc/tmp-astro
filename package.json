@@ -1,6 +1,5 @@
 {
   "name": "tmp-astro",
-  "type": "module",
   "version": "1.0.0",
   "description": "Template for Astro",
   "author": "@yogarasu",
