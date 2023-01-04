@@ -24,7 +24,7 @@
     "editor.formatOnSave": true
   },
   "html.format.wrapLineLength": 0,
-    "[astro]": {
+  "[astro]": {
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
