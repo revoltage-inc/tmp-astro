@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.3...v1.0.4) (2023-01-16)
+
+
+### Bug Fixes
+
+* 43 dependabotのPRを自動マージするワークフローを追加 ([18e98aa](https://github.com/revoltage-inc/tmp-astro/commit/18e98aa788e2431e1d67f978c67a227605547e90))
+* 43 パッケージを更新 ([a86a52a](https://github.com/revoltage-inc/tmp-astro/commit/a86a52a88c6a67e292ac391baeefca7c0ce875fc))
+
 ## [1.0.3](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.2...v1.0.3) (2023-01-04)
 
 
