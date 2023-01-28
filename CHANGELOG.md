@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.6](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.5...v1.0.6) (2023-01-28)
+
+
+### Bug Fixes
+
+* 58 dependabotをバージョンアップ ([c15be1f](https://github.com/revoltage-inc/tmp-astro/commit/c15be1fb3824fe4ee003c330b018d4983195bf00))
+
 ## [1.0.5](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.4...v1.0.5) (2023-01-25)
 
 
