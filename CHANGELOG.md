@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.6...v1.0.7) (2023-02-13)
+
+
+### Bug Fixes
+
+* 82 パッケージの更新 ([7560cd6](https://github.com/revoltage-inc/tmp-astro/commit/7560cd6a54179f5e7d80a903aa157bbc5ce3b497))
+
 ## [1.0.6](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.5...v1.0.6) (2023-01-28)
 
 
