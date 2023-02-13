@@ -13,24 +13,24 @@
     "update": "npx ncu -u && npm install"
   },
   "dependencies": {
-    "astro": "^2.0.9"
+    "astro": "^2.0.10"
   },
   "devDependencies": {
     "@astrojs/tailwind": "^3.0.1",
     "@tailwindcss/line-clamp": "^0.4.2",
-    "@typescript-eslint/parser": "^5.49.0",
+    "@typescript-eslint/parser": "^5.51.0",
     "autoprefixer": "^10.4.13",
-    "eslint": "^8.32.0",
+    "eslint": "^8.34.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-astro": "^0.23.0",
-    "npm-check-updates": "^16.6.5",
+    "npm-check-updates": "^16.7.4",
     "postcss": "^8.4.21",
     "postcss-preset-env": "^8.0.1",
     "prettier": "^2.8.4",
     "prettier-plugin-astro": "^0.8.0",
-    "stylelint": "^14.16.1",
-    "stylelint-config-prettier": "^9.0.4",
-    "stylelint-config-recommended": "^9.0.0",
+    "stylelint": "^15.1.0",
+    "stylelint-config-prettier": "^9.0.5",
+    "stylelint-config-recommended": "^10.0.1",
     "stylelint-order": "^6.0.2",
     "tailwindcss": "^3.2.6"
   },
