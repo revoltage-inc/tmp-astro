@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.8](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.7...v1.0.8) (2023-02-13)
+
+
+### Bug Fixes
+
+* 85 .eslintignoreファイルを追加 ([6ae5b84](https://github.com/revoltage-inc/tmp-astro/commit/6ae5b84fb4d4fa682210d4d7f5233ad3316861ff))
+* 85 フォーマット ([8b7afd2](https://github.com/revoltage-inc/tmp-astro/commit/8b7afd25407429b52ea335620483e7fc60bf1654))
+
 ## [1.0.7](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.6...v1.0.7) (2023-02-13)
 
 
