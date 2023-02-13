@@ -1,9 +1,9 @@
-const plugin = require("tailwindcss/plugin")
-const colors = require("tailwindcss/colors")
+const plugin = require('tailwindcss/plugin')
+const colors = require('tailwindcss/colors')
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{astro,html,js,ts,tsx}"],
+  content: ['./src/**/*.{astro,html,js,ts,tsx}'],
   theme: {
     colors: {
       transparent: colors.transparent,
@@ -19,15 +19,15 @@ module.exports = {
     },
   },
   plugins: [
-    require("@tailwindcss/line-clamp"),
+    require('@tailwindcss/line-clamp'),
     plugin(({ addVariant }) => {
-      addVariant("not-first", "&:not(:first-child)")
-      addVariant("not-last", "&:not(:last-child)")
+      addVariant('not-first', '&:not(:first-child)')
+      addVariant('not-last', '&:not(:last-child)')
     }),
     plugin(({ addUtilities }) => {
       addUtilities({
-        ".box": {
-          display: "-webkit-box",
+        '.box': {
+          display: '-webkit-box',
         },
       })
     }),
