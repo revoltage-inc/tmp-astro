@@ -23,7 +23,7 @@
     "eslint": "^8.34.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-astro": "^0.23.0",
-    "npm-check-updates": "^16.7.4",
+    "npm-check-updates": "^16.7.5",
     "postcss": "^8.4.21",
     "postcss-preset-env": "^8.0.1",
     "prettier": "^2.8.4",
