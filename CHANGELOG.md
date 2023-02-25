@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.9](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.8...v1.0.9) (2023-02-25)
+
+
+### Bug Fixes
+
+* 99 nodeとnpmをアップデート ([612ef28](https://github.com/revoltage-inc/tmp-astro/commit/612ef2817802125223e3a90d0dba4d89f9031f4b))
+* 99 READMEの環境設定の記述を細分化 ([ded266d](https://github.com/revoltage-inc/tmp-astro/commit/ded266d78198a625a16139ade645033a2c0fd909))
+* 99 パッケージを更新 ([9970630](https://github.com/revoltage-inc/tmp-astro/commit/9970630a06a7d30d8925d9d62481b8471f2db08e))
+* 99 不要なコメントを削除 ([b0cfd1b](https://github.com/revoltage-inc/tmp-astro/commit/b0cfd1b917044015c37d6a67a875c3250bec42df))
+* 99 不要なコメントを削除 ([1c0450a](https://github.com/revoltage-inc/tmp-astro/commit/1c0450a085de12df69dc8adfaea491445115cc19))
+
 ## [1.0.8](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.7...v1.0.8) (2023-02-13)
 
 
