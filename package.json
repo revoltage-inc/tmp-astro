@@ -16,7 +16,7 @@
     "astro": "^2.0.18"
   },
   "devDependencies": {
-    "@astrojs/tailwind": "^3.0.1",
+    "@astrojs/tailwind": "^3.1.1",
     "@tailwindcss/line-clamp": "^0.4.2",
     "@typescript-eslint/parser": "^5.53.0",
     "autoprefixer": "^10.4.13",
