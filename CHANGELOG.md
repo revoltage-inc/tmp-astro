@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.10](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.9...v1.0.10) (2023-03-14)
+
+
+### Bug Fixes
+
+* 118 stylelint-config-prettierを削除 ([5474006](https://github.com/revoltage-inc/tmp-astro/commit/5474006f43c5445d03f87a0b478692c0564939fc))
+* 118 パッケージを更新 ([3fdc2c9](https://github.com/revoltage-inc/tmp-astro/commit/3fdc2c9429e85c82813f7866a6eeeb79de756889))
+* 118 リファクタリング ([3ca4719](https://github.com/revoltage-inc/tmp-astro/commit/3ca4719208876d58f3df89956603da28ba9690ef))
+
 ## [1.0.9](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.8...v1.0.9) (2023-02-25)
 
 
