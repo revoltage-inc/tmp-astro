@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.11](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.10...v1.0.11) (2023-03-29)
+
+
+### Bug Fixes
+
+* 131 line-clampを削除 ([21818e2](https://github.com/revoltage-inc/tmp-astro/commit/21818e2e24273c1d9f3c856e05c70eec2010a141))
+* 131 tailwindの設定ファイルをtypesscript化 ([ddc3a1c](https://github.com/revoltage-inc/tmp-astro/commit/ddc3a1c7a4e8160d7b6900f2da4e1c57b23b14ef))
+* 131 パッケージを更新 ([08a3c4a](https://github.com/revoltage-inc/tmp-astro/commit/08a3c4ac184f7c824589ebb0115bf9e54980555b))
+
 ## [1.0.10](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.9...v1.0.10) (2023-03-14)
 
 
