@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/revoltage-inc/tmp-astro/compare/v2.0.0...v2.0.1) (2023-04-16)
+
+
+### Bug Fixes
+
+* 156 アップデート時にロックファイルのみ更新するように修正 ([e06566a](https://github.com/revoltage-inc/tmp-astro/commit/e06566a2cec65574cb951e1efe336f038938f9ee))
+
 ## [1.0.12](https://github.com/revoltage-inc/tmp-astro/compare/v1.0.11...v1.0.12) (2023-04-16)
 
 
