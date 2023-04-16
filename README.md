@@ -20,9 +20,9 @@ This includes TailwindCSS.
 Create execution environment with following command.  
 
 ```zsh
-volta install node@18.14.2 npm@9.5.0
+volta install node@18.16.0 npm@9.5.1 pnpm@8.2.0
 
-npm install
+pnpm install
 ```
 
 ### Setting environment variables
