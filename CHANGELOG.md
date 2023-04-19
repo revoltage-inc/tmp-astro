@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.2](https://github.com/revoltage-inc/tmp-astro/compare/v2.0.1...v2.0.2) (2023-04-19)
+
+
+### Bug Fixes
+
+* 161 Dependabotの更新間隔を日本時間の毎週日曜日午前4時に修正 ([891e21f](https://github.com/revoltage-inc/tmp-astro/commit/891e21f3e4a4059aeb20e99b7f9cc4bddc63aa9c))
+* 161 パッケージを更新 ([f41fcc8](https://github.com/revoltage-inc/tmp-astro/commit/f41fcc875849a96bf97743c6c70c251399f8a3f1))
+
 ## [2.0.1](https://github.com/revoltage-inc/tmp-astro/compare/v2.0.0...v2.0.1) (2023-04-16)
 
 
