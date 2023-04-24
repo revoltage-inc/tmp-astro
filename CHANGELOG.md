@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.3](https://github.com/revoltage-inc/tmp-astro/compare/v2.0.2...v2.0.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* 166 cssのネストが効かない問題を修正 ([8b408fc](https://github.com/revoltage-inc/tmp-astro/commit/8b408fc52aac68e824c232c68ae77abf7b9b092c))
+* 166 パッケージを更新 ([89d3dc7](https://github.com/revoltage-inc/tmp-astro/commit/89d3dc7761398c2e2b719db2d97f6cd284a13f4a))
+
 ## [2.0.2](https://github.com/revoltage-inc/tmp-astro/compare/v2.0.1...v2.0.2) (2023-04-19)
 
 
