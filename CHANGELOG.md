@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.0.4](https://github.com/revoltage-inc/tmp-astro/compare/v2.0.3...v2.0.4) (2023-06-07)
+
+
+### Bug Fixes
+
+* 192 パッケージを更新 ([7b9cc07](https://github.com/revoltage-inc/tmp-astro/commit/7b9cc07857e9608feba8c1102cf4ea622a7c3515))
+* 193 issueテンプレートを日本語化 ([64e4aab](https://github.com/revoltage-inc/tmp-astro/commit/64e4aab8222e67fe59d92aade8bde48aee2233c0))
+* 193 pnpm-lock.jsonファイルを検索から除外するように設定 ([f7cf998](https://github.com/revoltage-inc/tmp-astro/commit/f7cf998e5a047974dfefc1b3867e92f37e909ba2))
+* 193 pnpmをアップデート ([37b1408](https://github.com/revoltage-inc/tmp-astro/commit/37b1408c60426e27cff2c99c574cd43481b914b4))
+
 ## [2.0.3](https://github.com/revoltage-inc/tmp-astro/compare/v2.0.2...v2.0.3) (2023-04-24)
 
 
