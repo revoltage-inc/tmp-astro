@@ -20,7 +20,7 @@
 下記のコマンドで実行環境を作成します。  
 
 ```zsh
-volta install node@18.16.0 npm@9.5.1 pnpm@8.6.0
+volta install node@18.16.0 npm@9.5.1 pnpm@8.6.2
 
 pnpm install
 ```
@@ -39,17 +39,17 @@ cp .env.template .env
 下記コマンドでローカルサーバーを起動する。  
 
 ```zsh
-npm run dev
+pnpm run dev
 ```
 
 ## スクリプト
 
 | スクリプト | 説明 |
 |:-------|:--------|
-| `npm run update`| パッケージを一括更新する |
-| `npm run dev` | ローカルサーバーを起動する |
-| `npm run build` | 本番ビルドする |
-| `npm run astro` | Astro CLIを実行する |
+| `pnpm run update`| パッケージを一括更新する |
+| `pnpm run dev` | ローカルサーバーを起動する |
+| `pnpm run build` | 本番ビルドする |
+| `pnpm run astro` | Astro CLIを実行する |
 
 ## 参考
 
