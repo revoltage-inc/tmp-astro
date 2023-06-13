@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.0.5](https://github.com/revoltage-inc/tmp-astro/compare/v2.0.4...v2.0.5) (2023-06-13)
+
+
+### Bug Fixes
+
+* 196 pnpmをアップデート ([e4aef20](https://github.com/revoltage-inc/tmp-astro/commit/e4aef20b996a75870b8f257378deee62f9291ee1))
+* 196 READMEのnpmの記述箇所をpnpmにリネーム ([5138e8d](https://github.com/revoltage-inc/tmp-astro/commit/5138e8defc8b5947372c158a922e415d6c9d662d))
+* 196 パッケージを更新 ([bf65227](https://github.com/revoltage-inc/tmp-astro/commit/bf65227bd4402d5449093a96481a9921dbea0d4b))
+
 ## [2.0.4](https://github.com/revoltage-inc/tmp-astro/compare/v2.0.3...v2.0.4) (2023-06-07)
 
 
